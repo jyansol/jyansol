@@ -1,6 +1,15 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyansol&layout=donut-vertical)
+<center>
+  
 
-![ZANSOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyansol&show_icons=true&theme=blueberry)
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=D1F2EB&height=200&section=header&text=Welcome%20to%20ZANSOL%20World&fontSize=40&fontColor=48C9B0)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyansol&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
+
+</div>
+
+</center>
 
 
